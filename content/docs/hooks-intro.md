@@ -103,7 +103,7 @@ We also understand that the bar for adding a new primitive to React is extremely
 We intend for Hooks to cover all existing use cases for classes, but **we will keep supporting class components for the foreseeable future.** At Facebook, we have tens of thousands of components written as classes, and we have absolutely no plans to rewrite them. Instead, we are starting to use Hooks in the new code side by side with classes.
 
 ## Frequently Asked Questions {#frequently-asked-questions}
-
+33
 We've prepared a [Hooks FAQ page](/docs/hooks-faq.html) that answers the most common questions about Hooks.
 
 ## Next Steps {#next-steps}
